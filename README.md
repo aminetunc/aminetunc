@@ -4,8 +4,8 @@
 
 here are a few facts about me 😄
 
-- 🔭 I’m currently working on my `new Profile`
-- 🌱 I’m actually learning to create one 
+- 🔭 I am currently attending a `coding bootcamp at neuefische`
+- 🌱 I can't wait to see how my profile will look soon!
 
 - ⚡ Fun fact: i have a picture of elon musk hanging in my apartment because it motivates me
 
